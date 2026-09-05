@@ -9,6 +9,9 @@
 [Mm]emoryCaptures/
 [Rr]ecordings/
 
+# Unity recovery scenes
+[Aa]ssets/_Recovery/
+
 # Asset Store tools
 [Aa]ssets/AssetStoreTools*
 
